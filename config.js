@@ -42,13 +42,13 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281997496643', '𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇', true],//
+['6282164733480', 'IBALL YTTA', true],//
 ['6287771597518', 'AnggaBotz-MD Official', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6287771597518'
-global.nomorown = '6281997496643'
+global.nomorbot = '6282164733480'
+global.nomorown = '6282164733480'
 global.nomorownv2 = '+62 877-7159-7518'
 global.nomorown1 = '6281997496643'
 global.nomorown2 = '6287771597518'
@@ -58,9 +58,9 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = 'AnggaBotz-MD Official'//nama group kalian
-global.author = '𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇'
-global.namebot = '𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇'
+global.gcname = 'IBALL-BOTZ'//nama group kalian
+global.author = 'IBALL YTTA'
+global.namebot = 'IBALL BOTZ'
 global.wm = '𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇'
 global.media = 'https://telegra.ph/file/a9427f14542cab012612c.jpg'
 global.watermark = wm
@@ -77,7 +77,7 @@ global.stickauth = `© 𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇l`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇'
+global.nameown1= 'IBALL YTTA'
 global.nameown2 = 'AnggaBotz-MD Official'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'ʟᴏᴀᴅɪɴɢ ███████████]99% ɢᴇᴛᴛɪɴɢ ʟɪɴᴋ...'
@@ -86,11 +86,11 @@ global.lynk = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'Gada🗿'//Instagram klian
-global.sgh = 'https://github.com/AnggaXyzZ' //github
-global.tautanwa = 'https://wa.me/qr/2MEVVYHQXDSHM1'
-global.sgc = 'https://chat.whatsapp.com/E3l5YxNNUx89ecCRpOoOtO' //group whatsapp
-global.syt = 'https://youtube.com/channel/UCY89Fb9pCVUeMqEGikvOhNQ' //youtube
-global.sytv = 'https://youtu.be/JdjA6THtu_Q'//link video yt
+global.sgh = 'https://github.com/iball30' //github
+global.tautanwa = 'Gada'
+global.sgc = 'Gaad' //group whatsapp
+global.syt = 'Gada' //youtube
+global.sytv = 'Gada'//link video yt
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = '081997496643'
