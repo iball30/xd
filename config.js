@@ -43,7 +43,7 @@ const readMore = more.repeat(4001)
 
 global.owner = [
 ['6282164733480', 'IBALL YTTA', true],//
-['6287771597518', 'AnggaBotz-MD Official', true]
+['6287771597518', 'IBALL-MD', true]
 ]
 global.mods = []
 global.prems = []
@@ -61,7 +61,7 @@ global.readMore = readMore
 global.gcname = 'IBALL-BOTZ'//nama group kalian
 global.author = 'IBALL YTTA'
 global.namebot = 'IBALL BOTZ'
-global.wm = '𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇'
+global.wm = 'iball'
 global.media = 'https://telegra.ph/file/a9427f14542cab012612c.jpg'
 global.watermark = wm
 global.status = 'public'
@@ -73,12 +73,12 @@ global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇`
 global.stickpack = 'Created by: '
-global.stickauth = `© 𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇l`
+global.stickauth = `© IBALL`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.nameown1= 'IBALL YTTA'
-global.nameown2 = 'AnggaBotz-MD Official'
+global.nameown2 = 'IBALL-MD'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'ʟᴏᴀᴅɪɴɢ ███████████]99% ɢᴇᴛᴛɪɴɢ ʟɪɴᴋ...'
 global.lynk = '-'
@@ -271,7 +271,7 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/a9427f14542cab012612c.jpg' //Main Thumbnail
+global.thumb = 'https://i.postimg.cc/gcxLfk4r/gg.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/a9427f14542cab012612c.jpg'
 global.giflogo = 'https://telegra.ph/file/4d4f611baff7d92ec5e81.mp4'
 global.thumbs = ['https://telegra.ph/file/a9427f14542cab012612c.jpg']
@@ -282,8 +282,8 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
-global.fotonya1 = 'https://telegra.ph/file/a9427f14542cab012612c.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/a9427f14542cab012612c.jpg' //ini juga ganti 
+global.fotonya1 = 'https://i.postimg.cc/mr62wCvj/download.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://i.postimg.cc/gcxLfk4r/gg.jpg' //ini juga ganti 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=",
