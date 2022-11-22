@@ -68,10 +68,10 @@ global.status = 'public'
 global.danied = '          ⚠️ 𝐀𝐜𝐜𝐞𝐬 𝐃𝐚𝐧𝐢𝐞𝐝 ⚠️  '
 global.wame = 'https://wa.me/qr/2MEVVYHQXDSHM1'
 global.alllink = `https://youtu.be/lN-0jnuK2Ko`
-global.wm2 = ' 𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇 '
+global.wm2 = ' IballBotz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇`
+global.titlebot = `IballBotz`
 global.stickpack = 'Created by: '
 global.stickauth = `© IBALL`
 global.week = `${week} ${date}`
@@ -283,7 +283,7 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
 global.fotonya1 = 'https://i.postimg.cc/mr62wCvj/download.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://i.postimg.cc/gcxLfk4r/gg.jpg' //ini juga ganti 
+global.fotonya2 = 'https://i.postimg.cc/mr62wCvj/download' //ini juga ganti 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=",
