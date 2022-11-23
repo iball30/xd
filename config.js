@@ -42,13 +42,13 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282164733480', 'IBALL YTTA', true],//
+['6285358276822', 'IBALL YTTA', true],//
 ['6287771597518', 'IBALL-MD', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6282164733480'
-global.nomorown = '6282164733480'
+global.nomorown = '6285358276822'
 global.nomorownv2 = '+62 877-7159-7518'
 global.nomorown1 = '6281997496643'
 global.nomorown2 = '6287771597518'
@@ -271,7 +271,7 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://i.postimg.cc/gcxLfk4r/gg.jpg' //Main Thumbnail
+global.thumb = 'https://i.postimg.cc/mr62wCvj/download.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/a9427f14542cab012612c.jpg'
 global.giflogo = 'https://telegra.ph/file/4d4f611baff7d92ec5e81.mp4'
 global.thumbs = ['https://telegra.ph/file/a9427f14542cab012612c.jpg']
